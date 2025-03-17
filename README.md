@@ -4,4 +4,4 @@ A simple console application that toggles click lock on your mouse, when executi
 
 Made it because I found it annoying having to go through Windows settings, then open up additional mouse settings to toggle it every time.
 
-I used SystemParametersInfo from the Windows API to run this.
+I used SystemParametersInfo from the Windows API to do the toggling.
